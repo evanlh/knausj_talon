@@ -171,7 +171,7 @@ symbol_key_words = {
     "dash": "-",
     "equals": "=",
     "plus": "+",
-    "tilde": "~",
+    "matilda": "~",
     "bang": "!",
     "down score": "_",
     "under score": "_",

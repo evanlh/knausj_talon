@@ -1,17 +1,20 @@
 find it:
     edit.find()
 
-next one:
+next one|find next:
     edit.find_next()
 
-go word left:
+previous one|find previous:
+    edit.find_previous()
+
+go word left|go left word:
     edit.word_left()
 
-go word right:
+go word right|go right word:
     edit.word_right()
 
 go left:
-    edit.left()
+    edit.left()l
 
 go right:
     edit.right()
@@ -44,7 +47,7 @@ go way up:
 go bottom:
     edit.file_end()
     
-go top:
+fgo top:
     edit.file_start()
 
 go page down:
